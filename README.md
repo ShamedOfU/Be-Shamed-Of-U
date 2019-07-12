@@ -37,4 +37,4 @@
 # 多提醒一句，望各位同胞们洁身自好,注意安全：
 ![AIDS](PICs/AIDS.png)
 
-#### 有相关可耻新闻/图片可以补充在(issue处)[https://github.com/ShamedOfU/Be-Shamed-Of-U/issues]，这个仓库主动更新的时候说明又爆发了这类事件。
+#### 有相关可耻新闻/图片可以补充在[issue处](https://github.com/ShamedOfU/Be-Shamed-Of-U/issues)，这个仓库主动更新的时候说明又爆发了这类事件。
